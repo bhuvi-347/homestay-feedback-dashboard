@@ -1,4 +1,4 @@
-# Agri Disease Analysis Web App
+# Agri-Disease Analysis Web App
 
 ## Overview
 An AI-powered web application that helps farmers detect crop diseases from leaf images and receive disease analysis, treatment recommendations, and crop health insights.
