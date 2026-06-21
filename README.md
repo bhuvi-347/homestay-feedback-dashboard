@@ -1,16 +1,21 @@
-# React + Vite
+# Homestay Feedback Analytics & Recommendation Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+An AI-powered full-stack web application that analyzes guest reviews for homestays, classifies sentiment, identifies common feedback themes, and generates recommendations to help homestay owners improve service quality. Built as part of the SIP26 AI-Assisted Full Stack Web Development Summer Internship Program.
 
-Currently, two official plugins are available:
+## Features
+- Guest review submission and analysis
+- AI-based sentiment classification (Positive / Neutral / Negative)
+- Theme detection (Cleanliness, Food, Host Behavior, Location, etc.)
+- AI-generated recommendations for service improvement
+- Interactive analytics dashboard with review statistics
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- **Frontend:** React (Vite), Tailwind CSS, React Router
+- **Backend (planned):** Node.js / Express
+- **Database (planned):** MongoDB
+- **AI Integration (planned):** Gemini API
+- **Version Control:** Git & GitHub
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Status
+🚧 In development — SIP26 Internship Project
