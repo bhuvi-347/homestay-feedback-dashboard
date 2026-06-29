@@ -10,6 +10,7 @@ function Navbar() {
         <Link to="/" className="hover:text-purple-600">Home</Link>
         <Link to="/dashboard" className="hover:text-purple-600">Dashboard</Link>
         <Link to="/about" className="hover:text-purple-600">About</Link>
+        <Link to="/components" className="hover:text-purple-600">Components</Link>
       </div>
     </nav>
   )
